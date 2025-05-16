@@ -11,6 +11,7 @@ A computer vision project using OpenCV, designed for the Canadian International 
 
 ## Tech Stack
 - Python
+- Robot Operating System 2 (ROS2)
 - OpenCV
 - Google Translate API
 - Bash scripting
